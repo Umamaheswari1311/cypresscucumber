@@ -1,0 +1,9 @@
+{
+  "reporter":"mochawesome",
+  "defaultCommandTimeout": 6000,
+  "pageLoadTimeout": 60000,
+    "env": {
+        "url": "https://rahulshettyacademy.com"
+      }, 
+    "testFiles": "**/*.feature"
+}
